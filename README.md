@@ -5,12 +5,12 @@
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geovanepires&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/geovanepires)
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=geovanepires&theme=github-dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/geovanepires)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geovanent&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/geovanent)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=geovanent&theme=github-dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/geovanent)
 
 <br/>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=geovanepires&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=geovanent&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8)](#)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/geovanepires/github_geovane_profile/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/geovanent/geovanent/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
 
 </div>
 
