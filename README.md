@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Geovane+Chaves+Pires;Senior+Backend+Engineer;15%2B+years+building+scalable+systems;Fintech+%7C+Healthtech+%7C+Government;Node.js+%7C+TypeScript+%7C+AWS" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Geovane;Senior+Backend+Engineer;10%2B+years+building+scalable+systems;Fintech+%7C+Healthtech+%7C+Government;Node.js+%7C+TypeScript+%7C+AWS" alt="Typing animation" />
 
 <br/>
 
@@ -9,8 +9,6 @@
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=geovanent&theme=github-dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/geovanent)
 
 <br/>
-
-[![Trophy](https://github-trophies.vercel.app/?username=geovanent&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8)](#)
 
 </div>
 
