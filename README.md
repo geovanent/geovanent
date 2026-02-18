@@ -5,12 +5,12 @@
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geovanent&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/geovanent)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=geovanent&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/geovanent)
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=geovanent&theme=github-dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/geovanent)
 
 <br/>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=geovanent&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8)](#)
+[![Trophy](https://github-trophies.vercel.app/?username=geovanent&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8)](#)
 
 </div>
 
