@@ -78,7 +78,7 @@ const geovane = {
 
 **Cloud & DevOps**
 
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/) &nbsp;
+<a href="https://www.credly.com/badges/e96f32f6-fd2f-439a-9307-1e5ac294d7dd/linked_in_profile" target="_blank" rel="noopener noreferrer" title="WS Certified"><img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified" /></a> &nbsp;
 <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer" title="AWS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="36" height="36" /></a>
 <a href="https://cloud.google.com" target="_blank" rel="noopener noreferrer" title="Google Cloud"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="36" height="36" /></a>
 <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="36" height="36" /></a>
