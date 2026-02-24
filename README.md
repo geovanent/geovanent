@@ -30,7 +30,7 @@
 
 ### About me
 
-Senior Backend Engineer with **10+ years** building scalable systems for **fintech**, **healthtech** and **government**. Expert in event-driven architectures, microservices and CI/CD pipelines. Additional experience in **blockchain**, **AI** (LLMs, RAG, prompt engineering) and infrastructure.
+Senior Backend Engineer with **10+ years** building scalable systems for **fintech**, **healthtech** and **government**. **AWS Certified**. Expert in event-driven architectures, microservices and CI/CD pipelines. Additional experience in **blockchain**, **AI** (LLMs, RAG, prompt engineering) and infrastructure.
 
 ```js
 const geovane = {
@@ -61,41 +61,42 @@ const geovane = {
 
 **Languages**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="36" height="36" />
+<a href="https://nodejs.org" target="_blank" rel="noopener noreferrer" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36" /></a>
+<a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" /></a>
+<a href="https://www.python.org" target="_blank" rel="noopener noreferrer" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36" /></a>
+<a href="https://www.php.net" target="_blank" rel="noopener noreferrer" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="36" height="36" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="36" height="36" /></a>
 
 **Frameworks**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="36" height="36" />
+<a href="https://nestjs.com" target="_blank" rel="noopener noreferrer" title="NestJS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="36" height="36" /></a>
+<a href="https://expressjs.com" target="_blank" rel="noopener noreferrer" title="Express"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="36" height="36" /></a>
+<a href="https://laravel.com" target="_blank" rel="noopener noreferrer" title="Laravel"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="36" height="36" /></a>
+<a href="https://react.dev" target="_blank" rel="noopener noreferrer" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="36" height="36" /></a>
+<a href="https://redux.js.org" target="_blank" rel="noopener noreferrer" title="Redux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="36" height="36" /></a>
 
 **Cloud & DevOps**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="36" height="36" />
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/) &nbsp;
+<a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer" title="AWS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="36" height="36" /></a>
+<a href="https://cloud.google.com" target="_blank" rel="noopener noreferrer" title="Google Cloud"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="36" height="36" /></a>
+<a href="https://www.docker.com" target="_blank" rel="noopener noreferrer" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="36" height="36" /></a>
+<a href="https://kubernetes.io" target="_blank" rel="noopener noreferrer" title="Kubernetes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="36" height="36" /></a>
+<a href="https://docs.github.com/en/actions" target="_blank" rel="noopener noreferrer" title="GitHub Actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="36" height="36" /></a>
+<a href="https://www.jenkins.io" target="_blank" rel="noopener noreferrer" title="Jenkins"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="36" height="36" /></a>
 
 **Databases**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="36" height="36" />
+<a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="36" height="36" /></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36" /></a>
+<a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noopener noreferrer" title="DynamoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" width="36" height="36" /></a>
+<a href="https://redis.io" target="_blank" rel="noopener noreferrer" title="Redis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="36" height="36" /></a>
+<a href="https://www.oracle.com/database/" target="_blank" rel="noopener noreferrer" title="Oracle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="36" height="36" /></a>
 
 **Monitoring**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="36" height="36" />
+<a href="https://grafana.com" target="_blank" rel="noopener noreferrer" title="Grafana"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="36" height="36" /></a>
 
 </td>
 </tr>
