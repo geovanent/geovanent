@@ -30,7 +30,7 @@
 
 ### About me
 
-Senior Backend Engineer with **15+ years** building scalable systems for **fintech**, **healthtech** and **government**. Expert in event-driven architectures, microservices and CI/CD pipelines. Additional experience in **blockchain**, **AI** (LLMs, RAG, prompt engineering) and infrastructure.
+Senior Backend Engineer with **10+ years** building scalable systems for **fintech**, **healthtech** and **government**. Expert in event-driven architectures, microservices and CI/CD pipelines. Additional experience in **blockchain**, **AI** (LLMs, RAG, prompt engineering) and infrastructure.
 
 ```js
 const geovane = {
